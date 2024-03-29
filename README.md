@@ -5,9 +5,13 @@
 ## Features
 
 -Gradient accumulation for simulating larger batch sizes
+
 -Learning rate scheduling with warmup and decay
+
 -Model evaluation during training
+
 -Checkpointing and resuming training from saved checkpoints
+
 -Efficient training using PyTorch's torch.compile() feature (requires PyTorch 2.0)
 
 ## Usage
