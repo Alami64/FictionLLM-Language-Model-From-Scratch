@@ -1,6 +1,6 @@
 # FictionLLM-Language-Model-From-Scratch
 
-##FictionLLM is a language model based on the GPT (Generative Pre-trained Transformer) architecture, specifically inspired by GPT-2. It is designed to be trained on a large corpus of webfiction text data to generate webfiction like stories.
+FictionLLM is a language model based on the GPT (Generative Pre-trained Transformer) architecture, specifically inspired by GPT-2. It is designed to be trained on a large corpus of webfiction text data to generate webfiction like stories.
 
 ## Features
 
