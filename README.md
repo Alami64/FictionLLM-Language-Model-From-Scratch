@@ -26,4 +26,4 @@ FictionLLM is a language model based on the GPT (Generative Pre-trained Transfor
 5. Once training is complete, the trained model checkpoint will be saved in the out directory.
 
 
-## The model hyperparameters, such as the number of layers, number of attention heads, and embedding dimensions, can be customized in the configurator.py file or through command-line arguments.
+The model hyperparameters, such as the number of layers, number of attention heads, and embedding dimensions, can be customized in the configurator.py file or through command-line arguments.
